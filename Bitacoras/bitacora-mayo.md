@@ -42,6 +42,8 @@ Arreglamos las VLAN en el switch de cisco , mientras otros compañeros estaban c
 Ya que desde el principio no organizamos muy bien los cables, nos dedicamos a quitarlos, reorganizarlos y etiquetarlos, tambien asignamos cada cable de red a su correspondienrte equipo. Tambien posimos a funcionar el sai y configuramos ciertos parametros de algunos clientes Windows que nos quedaban.
 ## *MARTES, 23 DE MAYO*
 Se han corregido errores del enrutamiento en el servidor empresarial en DELL 1 y se ha colocado ip correcta en el servidor empresarial de DELL 2. Se ha configurado zabbix para tenerlo listo.
+## *JUEVES, 25 DE MAYO*
+Descargamos el software necesario para configurar el SAI e investigamos cómo configurarlo. Además, colocamos los equipos para que el SAI quede conectado a todos los servidores.
 ## *VIERNES, 26 DE MAYO*
 Crimpamos un cable que nos hacía falta.
 Mientras otro compañero configuraba dos switches.
