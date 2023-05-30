@@ -83,3 +83,9 @@ Junto a César terminé de añadir los clientes al dominio.
 
 ## *JUEVES, 25 DE MAYO*
 Junto a César, he creado algunas reglas en el firewall del Microtik para las VLANs (cuáles se tienen que comunicar y cuáles no)
+
+## *VIERNES, 26 DE MAYO*
+He intentado realizar la configuración de red del servidor empresarial secundario para hacerlo Backup Domain Controller, pero no he podido cambiar la IP a una estática.
+
+## *LUNES, 29 DE MAYO*
+Junto a César, he investigado cómo configurar el SAN, hemos conectado el servidor de cabina de discos y el de datos al switch SAN y lo hemos configurado para que funcione. También hemos intentado configurar el tp link para que le de por dhcp una ip estática al servidor empresarial secundario, pero no hemos podido.
