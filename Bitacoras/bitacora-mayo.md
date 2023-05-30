@@ -37,11 +37,13 @@ Hemos realizado las siguientes tareas:
 ## *JUEVES, 18 DE MAYO*
 El día de hoy el grupo nos dedicamos a ralizar las siguentes tareas, mientras que dos del grupo continuamos investigando cómo compartir el Raidz2 desde el TrueNas al servidor de datos, no teniendo éxito por el momento, mientras que otros miembros del grupo se dedicaban a arreglas las VLAN y configurar el switch de cisco.
 ## *VIERNES, 19 DE MAYO*
-Arreglamos las VLAN en el switch de cisco , mientras otros compañeros estaban configurando  el TrueNas con ICSI.
+Arreglamos las VLAN en el switch de cisco , mientras otros compañeros estaban configurando  el TrueNas con ISCSI.
 ## *LUNES, 22 DE MAYO*
 Ya que desde el principio no organizamos muy bien los cables, nos dedicamos a quitarlos, reorganizarlos y etiquetarlos, tambien asignamos cada cable de red a su correspondienrte equipo. Tambien posimos a funcionar el sai y configuramos ciertos parametros de algunos clientes Windows que nos quedaban.
 ## *MARTES, 23 DE MAYO*
 Se han corregido errores del enrutamiento en el servidor empresarial en DELL 1 y se ha colocado ip correcta en el servidor empresarial de DELL 2. Se ha configurado zabbix para tenerlo listo.
+## *MIÉRCOLES, 24 DE MAYO*
+Mientras unos compañeros acababan de unir los clientes restantes al servidor, otra compañera se dedicaba a configursr el SAI, mientras que otra parte del grupo investigaba como compartir la carpeta, pero debido a un corte en la luz, únicamente se pudo adelantar cosas del proyecto durante la primera hora.
 ## *JUEVES, 25 DE MAYO*
 Descargamos el software necesario para configurar el SAI e investigamos cómo configurarlo. Además, colocamos los equipos para que el SAI quede conectado a todos los servidores.
 ## *VIERNES, 26 DE MAYO*
