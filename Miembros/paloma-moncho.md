@@ -112,4 +112,17 @@ En el día de hoy continué investigando sobre la configuración del Sai, y desc
 
 Viernes 26 de Mayo
 
-Hoy por fin he conseguido configurar el SAI , añadiendo todas la ip's de los servidores, así que si se va la luz como administradora que soy enviará mi teléfono un correo para avisar que está a punto de apagarse. 
+Hoy por fin he conseguido configurar el SAI , añadiendo todas la ip's de los servidores, así que si se va la luz como administradora que soy enviará mi teléfono un correo para avisar que está a punto de apagarse.
+
+## Día 18 ##
+
+Lunes 29 de Mayo
+
+Finalicé la configuración del SAI's y a parte hice la práctica 3.1 y la entregué.
+
+## Día 19 ##
+
+Martes 30 de Mayo
+
+Realizo un excel  sobre la información de los equipos , pongo el nombre del equipo, el usuario, la contraseña, el dispositivio y el patch panel.
+Comienzo con las carpetas de los usuarios.
