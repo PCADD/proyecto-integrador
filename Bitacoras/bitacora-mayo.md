@@ -54,3 +54,4 @@ Hemos tenido algunos problemas con la red, ningun equipo podia acceder a interne
 Se ha logrado compartir la carpeta de la cabina de discos al servidor de datos via ISCSI.
 Hemos podido corregir el error de ip duplicada en el servidor secundario y se ha colocado una ip estática para poder realizar la configuración de servidor secundario.
 Se ha hecho documento donde se ha especificado la info de los equipos, a una carpeta compartida en la nube.
+Se ha empezado a añadir equipos a zabbix para monitorizarlos.
