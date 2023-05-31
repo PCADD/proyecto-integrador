@@ -126,3 +126,9 @@ Martes 30 de Mayo
 
 Realizo un excel  sobre la información de los equipos , pongo el nombre del equipo, el usuario, la contraseña, el dispositivio y el patch panel.
 Comienzo con las carpetas de los usuarios.
+
+## Día 20 ##
+
+Miércoles 31 de Mayo
+
+Finalizo los permisos de la carpeta de datos.
