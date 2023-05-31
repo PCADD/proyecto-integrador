@@ -89,3 +89,11 @@ He intentado realizar la configuración de red del servidor empresarial secundar
 
 ## *LUNES, 29 DE MAYO*
 Junto a César, he investigado cómo configurar el SAN, hemos conectado el servidor de cabina de discos y el de datos al switch SAN y lo hemos configurado para que funcione. También hemos intentado configurar el tp link para que le de por dhcp una ip estática al servidor empresarial secundario, pero no hemos podido.
+
+## *MARTES, 30 DE MAYO*
+He realizado las siguientes tareas:
+  - He cambiado algunas cosas que habíamos modificado en el microtik y el tplink ayer para la ip estática del servidor empresarial, que impedía que los servidores tuvieran internet
+  - He configurado el servidor empresarial secundario para que sea controlador de dominio secundario
+  - He intentado configurar el DFS en el servidor empresarial, pero me ha dado erroes porque había que crearlo en el servidor de datos
+  - He empezado a configurar el DFS en el servidor de datos.
+  - He cambiado la configuración de los servidores para que no se apagen o entren en suspensión cuando pase cierto tiempo
