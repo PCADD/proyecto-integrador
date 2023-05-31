@@ -62,8 +62,4 @@ Asimismo una compañera intentaba cambiar la dirección IP de la máquina del se
 - Se ha configurado los servidores para que no se apaguen o entren en modo suspensión
 - Se ha compartido la carpeta Documentacio y se han empezado a crear los gdls necesarios para asignar permitos a las subcarpetas 
 ## *MIÉRCOLES, 31 DE MAYO*
-- Compartir carpeta documentació per DFS
-- Unir servidores a Zabbix
-- Terminar de crear GDL
-- Otorgar permisos carpetas
-- Configurar DMZ
+Parte del grupo se dedicaba a compartir carpeta documentació por DFS, mientras que otro miembro unia servidores a Zabbix, por otra parte dos compañeros terminar de crear los GDL, otorgar permisos carpetas y otro compañero ha empezado a configurar el DMZ.
