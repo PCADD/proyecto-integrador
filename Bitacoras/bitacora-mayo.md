@@ -52,8 +52,12 @@ Mientras otro compañero configuraba dos switches.
 También conseguimos configurar el SAI aunque hacen falta unas pequñas modificaciones.
 Asimismo una compañera intentaba cambiar la dirección IP de la máquina del servidor empresarial.
 ## *MARTES, 30 DE MAYO*
-Hemos tenido algunos problemas con la red, ningun equipo podia acceder a internet o estaba bloqueado. Hemos solucionado dicho problema para que los diferentes equipos de nuestra sede esten conectados correctamente en la red.
-Se ha logrado compartir la carpeta de la cabina de discos al servidor de datos via ISCSI.
-Hemos podido corregir el error de ip duplicada en el servidor secundario y se ha colocado una ip estática para poder realizar la configuración de servidor secundario.
-Se ha hecho documento donde se ha especificado la info de los equipos, a una carpeta compartida en la nube.
-Se ha empezado a añadir equipos a zabbix para monitorizarlos.
+- Hemos tenido algunos problemas con la red, ningun equipo podia acceder a internet o estaba bloqueado. Hemos solucionado dicho problema para que los diferentes equipos de nuestra sede esten conectados correctamente en la red.
+- Se ha logrado compartir la carpeta de la cabina de discos al servidor de datos via ISCSI.
+- Hemos podido corregir el error de ip duplicada en el servidor secundario y se ha colocado una ip estática para poder realizar la configuración de servidor secundario.
+- Se ha hecho documento donde se ha especificado la info de los equipos, a una carpeta compartida en la nube.
+- Se ha empezado a añadir equipos a zabbix para monitorizarlos.
+- Se ha configurado el servidor empresarial secundario para que sea controlador de dominio secundario
+- Se ha empezado a configurar el DFS
+- Se ha configurado los servidores para que no se apaguen o entren en modo suspensión
+- Se ha compartido la carpeta Documentacio y se han empezado a crear los gdls necesarios para asignar permitos a las subcarpetas 
