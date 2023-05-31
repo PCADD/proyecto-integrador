@@ -10,10 +10,6 @@ Contraseña:Batoi@1234
 Usuario:root  
 Contraseña:1234
 
-## Servidor de datos(Servidor windows con entorno gráfico) 
-Usuario:srvdatos  
-Contraseña:Batoi@1234
-
 # Dell 2 Debian
 Usuario:srvsedealcoy02  
 Contraseña:1234
@@ -37,6 +33,10 @@ Usuario zabbix: zabbix@localhost
 Contraseña zabbix: password
 
 # Dell 3 Debian
+
+## Servidor de datos(Servidor windows con entorno gráfico) 
+Usuario:srvdatos  
+Contraseña:Batoi@1234
 
 Usuario:srvsedealcoy03  
 Contraseña:1234
