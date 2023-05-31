@@ -18,7 +18,7 @@ Contraseña:Batoi@1234
 Usuario:srvsedealcoy02  
 Contraseña:1234
 
-## Servidor empresarial secundario(servidor windows con entorno gráfico)
+## Servidor empresarial secundario(servidor windows sin entorno gráfico)
 
 Usuario:srvempresarial2  
 Contraseña:Batoi@1234
