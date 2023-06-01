@@ -100,3 +100,14 @@ He realizado las siguientes tareas:
 
 ## *MIÉRCOLES, 31 DE MAYO*
 He configurado el DFS entre el servidor de datos y el servidor empresarial. Además, he instalado el agente de Zabbix en el servidor de datos para poder añadirlo al servidor de monitorización y he instalado el sistema operativo del DMZ.
+
+## *JUEVES, 1 DE JUNIO*
+He creado las siguientes directivas: 
+  - Desactivación del acceso a la terminal para el personal técnico
+  - Prohibición de acceso a los dispositivos USB a todo el personal excepto a los gerentes
+Junto a César, he empezado a configurar algunas cosas del DMZ en el microtik:
+  - Creación de la interfaz
+  - Creación de la VLAN
+  - Asignación de IPs
+Además, hemos investigado cómo configurar el firewall
+También, entre todos, hemos organizado las diferentes páginas de la intranet y he empezado a hacer las mías. También, junto a David, he realizado la plantilla básica y el logo. 
