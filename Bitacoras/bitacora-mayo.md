@@ -51,6 +51,8 @@ Crimpamos un cable que nos hacía falta.
 Mientras otro compañero configuraba dos switches.
 También conseguimos configurar el SAI aunque hacen falta unas pequñas modificaciones.
 Asimismo una compañera intentaba cambiar la dirección IP de la máquina del servidor empresarial.
+## *LUNES, 29 DE MAYO*
+Se acabo de configurar el switch que conecta el servidor de datos con la cabina de discos, asi como arreglamos algunos fallos que nos fueron surgiendo. EL tp-link inhalambrico se quedo funcionando y el switch de produccion tambien.
 ## *MARTES, 30 DE MAYO*
 - Hemos tenido algunos problemas con la red, ningun equipo podia acceder a internet o estaba bloqueado. Hemos solucionado dicho problema para que los diferentes equipos de nuestra sede esten conectados correctamente en la red.
 - Se ha logrado compartir la carpeta de la cabina de discos al servidor de datos via ISCSI.
