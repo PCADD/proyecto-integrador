@@ -1,6 +1,16 @@
 # PROYECTO INTEGRADOR - GRUPO PCADD - JUNIO
 
 ## *JUEVES, 1 DE JUNIO*
+- Creación de las siguientes directivas: 
+  - Desactivación del acceso a la terminal para el personal técnico
+  - Prohibición de acceso a los dispositivos USB a todo el personal excepto a los gerentes
+- Configuración básica del DMZ en el microtik:
+  - Creación de la interfaz
+  - Creación de la VLAN
+  - Asignación de IPs
+- Investigación de la configuración del DMZ (firewall)
+- Organización de las diferentes páginas de la intranet y realización de algunas de ellas   
+
 
 ## *VIERNES, 2 DE JUNIO*
 
