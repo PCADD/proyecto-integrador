@@ -97,3 +97,6 @@ He realizado las siguientes tareas:
   - He intentado configurar el DFS en el servidor empresarial, pero me ha dado erroes porque había que crearlo en el servidor de datos
   - He empezado a configurar el DFS en el servidor de datos.
   - He cambiado la configuración de los servidores para que no se apagen o entren en suspensión cuando pase cierto tiempo
+
+## *MIÉRCOLES, 31 DE MAYO*
+He configurado el DFS entre el servidor de datos y el servidor empresarial. Además, he instalado el agente de Zabbix en el servidor de datos para poder añadirlo al servidor de monitorización y he instalado el sistema operativo del DMZ.
