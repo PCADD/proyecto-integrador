@@ -132,3 +132,7 @@ Comienzo con las carpetas de los usuarios.
 Miércoles 31 de Mayo
 
 Finalizo los permisos de la carpeta de datos.
+
+## Día 21 ##
+
+REalizo una parte de la actividad 3.3 del proyecto integrador.
