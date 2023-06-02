@@ -14,6 +14,8 @@
 
 ## *VIERNES, 2 DE JUNIO*
 
+Instalar el zabbix agent en sel server windows core. Mientras otros compañeros ha cambiado la política de seguridad y terminar el esquema de red. También otro compañero estaba haciendo las cuotas e instalación del servicio de escritorio remoto.
+
 ## *LUNES, 5 DE JUNIO*
 
 ## *MARTES, 6 DE JUNIO*
