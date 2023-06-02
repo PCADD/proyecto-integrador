@@ -135,4 +135,8 @@ Finalizo los permisos de la carpeta de datos.
 
 ## Día 21 ##
 
-REalizo una parte de la actividad 3.3 del proyecto integrador.
+Realizo una parte de la actividad 3.3 del proyecto integrador.
+
+## Día 22 ##
+
+Ayudo a otro compañero a configurar el zabbix con el servidor secundario.
