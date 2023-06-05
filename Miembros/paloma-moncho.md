@@ -140,3 +140,9 @@ Realizo una parte de la actividad 3.3 del proyecto integrador.
 ## Día 22 ##
 
 Ayudo a otro compañero a configurar el zabbix con el servidor secundario.
+
+## Día 23 ##
+
+Lunes 5 de junio
+
+Solucionar el problema del SAI's de las IP's y hacer la actividad 2.2 de aules.
