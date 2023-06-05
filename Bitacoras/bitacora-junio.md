@@ -10,6 +10,10 @@
   - Asignación de IPs
 - Investigación de la configuración del DMZ (firewall)
 - Organización de las diferentes páginas de la intranet y realización de algunas de ellas   
+- Práctica 2.2
+- Creación de perfiles móviles, perfiles móviles obligatorios y carpetas personales
+  - Creación de gdls asociados
+  - Asignación de permisos
 
 
 ## *VIERNES, 2 DE JUNIO*
