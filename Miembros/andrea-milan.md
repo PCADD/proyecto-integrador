@@ -111,3 +111,6 @@ Junto a César, he empezado a configurar algunas cosas del DMZ en el microtik:
   - Asignación de IPs
 Además, hemos investigado cómo configurar el firewall
 También, entre todos, hemos organizado las diferentes páginas de la intranet y he empezado a hacer las mías. También, junto a David, he realizado la plantilla básica y el logo. 
+
+## *VIERNES, 2 DE JUNIO*
+He creado el esquema de red (ya estaba en papel), he hecho capturas de la configuración de red para documentar y he modificado la política de copias de seguridad
