@@ -23,7 +23,9 @@ Instalar el zabbix agent en el server windows core. Mientras otra compañera ha 
 ## *LUNES, 5 DE JUNIO*
 
 ## *MARTES, 6 DE JUNIO*
-
+Se ha crimpado un cable de red que se habia roto.
+Hemos seguido configurando WSUS.
+En el servidor empresarial se empieza a configurar el sistema de instalación por red de sistemas operativos para cliente Windows via iSCSI en una carpeta desde la cabina de discos.
 ## *MIÉRCOLES, 7 DE JUNIO*
 
 ## *JUEVES, 8 DE JUNIO*
