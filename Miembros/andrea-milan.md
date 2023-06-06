@@ -114,3 +114,13 @@ También, entre todos, hemos organizado las diferentes páginas de la intranet y
 
 ## *VIERNES, 2 DE JUNIO*
 He creado el esquema de red (ya estaba en papel), he hecho capturas de la configuración de red para documentar y he modificado la política de copias de seguridad
+
+## *LUNES, 5 DE JUNIO* 
+- He organizado las tareas del trello (he etiquetado las que estaban creadas y sin etiquetar, he asignado las que no estaban asignadas y he creado las que faltaban)
+- He creado las siguientes directivas:
+  - Instalar para todos los usuarios de la empresa el Thunderbird
+  - Instalar para los comerciales que lo deseen el navegador Firefox
+- He investigado como configurar WSUS
+- He investigado junto a César qué necesitamos configurar para que el DMZ muestre la intranet y hemos investigado como desplegar la intranet cuando la tengamos
+- He hecho capturas de la configuración del tp link y del tp link del SAN para documentar la configuración de la red
+- He revisado el documento 'dimensionament-servidors.md' creado por Paloma
