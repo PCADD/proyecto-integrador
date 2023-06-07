@@ -30,7 +30,9 @@ Usuario:srvmonitorizacion
 Contraseña: 1234  
 Contraseña root: 1234  
 Usuario zabbix: zabbix@localhost  
-Contraseña zabbix: password
+Contraseña zabbix: password  
+Usuario interfaz web: Admin
+Contraseña interfaz web: password
 
 # Dell 3 Debian
 
