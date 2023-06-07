@@ -7,7 +7,7 @@ He desmontado junto a mis compañeros lo que habían utilizado los de 2º para s
 Todos hemos realizado el inventario de los equipos disponibles del laboratorio
 
 ## *MIÉRCOLES, 5 DE ABRIL*
-Todos hemoes reseteado el router TP-Link y aprendimos a configurarlo para el proyecto
+Todos hemos reseteado el router TP-Link y aprendimos a configurarlo para el proyecto
 
 ## *MARTES, 18 DE ABRIL*
 Junto a David he elegido el sistema operativo de cada servidor, y cómo vamos a agrupar los servidores virtualizados en los servidores físicos.
