@@ -133,8 +133,8 @@ He creado el esquema de red (ya estaba en papel), he hecho capturas de la config
 
 ## *MIÉRCOLES, 7 DE JUNIO*
 Junto a César, he realizado las siguientes tareas:
-- He creado y compartido un disco iSCSI para la creación de 
-- He empezado a configurar WDS (no he podido avanzar muc
+- He creado y compartido un disco iSCSI para guardar las ISOs 
+- He empezado a configurar WDS (falta añadir las ISOs y configurar los clientes)
 - He revisado que los cables están conectados como indica nuestro esquema (en el patch panel y switches)
 - He modificado el documento dimensionament_servidors.md y modificado algunos nombres de equipos que faltaban por cambiar
 
