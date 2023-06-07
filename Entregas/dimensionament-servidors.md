@@ -96,8 +96,8 @@ Contraseña:1234
 
 ## Cliente 1: gerencia
 
-- Nombre del equipo:cliente1
-- IP: 192.156.2.0/24
+- Nombre del equipo:alcoy-cli1
+- IP: 192.168.2.0/24
 - Usuario:alcoy-cli1  
 - contraseña:1234
 - Patch Panel:5
@@ -105,7 +105,7 @@ Contraseña:1234
 
 ## Cliente 2: administración
 
-- Nombre del equipo:cliente2
+- Nombre del equipo:alcoy-cli2
 - IP: 192.168.3.0/24
 - Usuario:alcoy-cli2  
 - Contraseña:1234
@@ -136,8 +136,8 @@ Contraseña:1234
 
 ## Cliente 4: administrador dominio
 
-- Nombre del equipo:cliente4
-- IP: 192.168.8.40
+- Nombre del equipo:alcoy-cli4
+- IP: 192.168.8.0/24
 - Usuario:alcoy-cli4  
 - Contraseña:1234
 - Patch panel: puerto 20
@@ -145,24 +145,24 @@ Contraseña:1234
 
 ## Cliente 5: técnico y laboratorio
 
-- Nombre del equipo:cliente5
-- Usuario:alcoy-cli5-Tecnico
+- Nombre del equipo:alcoy-cli5
+- Usuario:alcoy-cli5
 - Contraseña:1234
 
 ### Cliente técnico
 
 - Nombre del equipo: cliente-tecnico
 - IP:192.168.5.0/24
-- Usuario: cliente-almacen 
+- Usuario: cliente-tecnico
 - Contraseña:1234
 - Patch Panel:Puerto 22
 - Dispositivo: 5 tp link
 
 ### Cliente laboratorio
 
-- Nombre del equipo: cliente-laboratorio
+- Nombre del equipo: cliente-lab
 - IP:192.168.4.0/24
-- Usuario:alcoy-cli6-Laboratorio
+- Usuario:cliente-lab
 - Contraseña:1234
 - Patch Panel:Puerto 9
 - Dispositivo: 5 tplink
