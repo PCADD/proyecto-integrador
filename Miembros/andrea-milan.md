@@ -124,3 +124,9 @@ He creado el esquema de red (ya estaba en papel), he hecho capturas de la config
 - He investigado junto a César qué necesitamos configurar para que el DMZ muestre la intranet y hemos investigado como desplegar la intranet cuando la tengamos
 - He hecho capturas de la configuración del tp link y del tp link del SAN para documentar la configuración de la red
 - He revisado el documento 'dimensionament-servidors.md' creado por Paloma
+
+## *MARTES, 6 DE JUNIO*
+- He investigado como configurar el WSUS y lo he configurado (a excepción de añadir el servidor por un error del esquema de base de datos) y he añadido dos directivas necesarias para que los clientes utilicen al servidor para descargar las actualizaciones.
+- He investigado cómo configurar el WDS y cómo compartir un disco ISCSI en TrueNAS
+- He organizado tareas para el resto de días
+- He arreglado algunos errores de la red de los servidores físicos (no tenían internet)
