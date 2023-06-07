@@ -108,7 +108,7 @@ Contraseña:1234
 - Nombre del equipo:alcoy-cli2
 - IP: 192.168.3.0/24
 - Usuario:alcoy-cli2  
-- Contraseña:1234
+- Contraseña:Batoy@1234
 - Patch Panel:23
 - Dispositivo:4 tplink
 
