@@ -78,7 +78,7 @@ Contraseña:1234
 
 - Nombre del equipo: Servidor Intranet
 - IP: 192.168.8.30
-- Usuario:debianintranet  
+- Usuario:intranet  
 - Contraseña:1234
 - Patch panel: Puerto 6
 - Dispositivo: Cisco puerto 17
