@@ -127,6 +127,17 @@ He creado el esquema de red (ya estaba en papel), he hecho capturas de la config
 
 ## *MARTES, 6 DE JUNIO*
 - He investigado como configurar el WSUS y lo he configurado (a excepción de añadir el servidor por un error del esquema de base de datos) y he añadido dos directivas necesarias para que los clientes utilicen al servidor para descargar las actualizaciones.
-- He investigado cómo configurar el WDS y cómo compartir un disco ISCSI en TrueNAS
+- He investigado cómo configurar el WDS y cómo compartir un disco iSCSI en TrueNAS
 - He organizado tareas para el resto de días
 - He arreglado algunos errores de la red de los servidores físicos (no tenían internet)
+
+## *MIÉRCOLES, 7 DE JUNIO*
+Junto a César, he realizado las siguientes tareas:
+- He creado y compartido un disco iSCSI para la creación de 
+- He empezado a configurar WDS (no he podido avanzar muc
+- He revisado que los cables están conectados como indica nuestro esquema (en el patch panel y switches)
+- He modificado el documento dimensionament_servidors.md y modificado algunos nombres de equipos que faltaban por cambiar
+
+## *JUEVES, 8 DE JUNIO*
+
+## *VIERNES, 9 DE JUNIO*
