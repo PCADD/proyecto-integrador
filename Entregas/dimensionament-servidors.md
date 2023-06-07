@@ -127,9 +127,9 @@ Contraseña:1234
 - Dispositivo: 2 cisco
 
 ### Cliente producción
-- Nombre del equipo: cliente-produccion
+- Nombre del equipo: cliente-produc
 - IP:192.168.7.0/24
-- Usuario: cliente-produccion 
+- Usuario: cliente-produc 
 - Contraseña:1234
 - Patch Panel:Puerto 21
 - Dispositivo: 3 cisco
