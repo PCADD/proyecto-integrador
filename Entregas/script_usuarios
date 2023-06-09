@@ -1,0 +1,66 @@
+# Función para generar el login
+function GenerarLogin($nom, $cognom1) {
+    $login = ($nom.Substring(0, 1) + $cognom1).ToLower()  # Concatenar nom i cognom1 y convertirlo a minúsculas
+    $login = $login -replace "[^a-z0-9]", ""  # Eliminar acentos y caracteres especiales
+    return $login
+}
+
+# Leer los usuaris del fichero CSV
+$usuaris = Import-Csv -Path ".\Downloads\usuaris.csv"
+
+# Crear cada usuario
+foreach ($usuari in $usuaris) {
+    $login = GenerarLogin $usuari.nom $usuari.cognom1
+    
+    # Comprovar si el login ya existe
+    while (Get-ADUser -Filter "SamAccountName -eq '$login'") {
+        $login = $login + (Get-Random -Minimum 0 -Maximum 99)  # Afegir un número aleatori al login si ya existe
+    }
+    
+    $nom = $usuari.nom
+    $cognom1 = $usuari.cognom1
+    $cognom2 = $usuari.cognom2
+    $dni = $usuari.dni
+    $sede = $usuari.sede
+    $dept = $usuari.dept
+    $descrip = $usuari.descrip
+    if ($usuari.sede -eq "Alcoi") {   
+        # Crear el usuario
+        New-ADUser -Name "$login" -path "OU=$dept,OU=Grupos,DC=alcoi,DC=lan" -givenname "$nom" -Surname "$cognom1 + $cognom2" -AccountPassword (ConvertTo-SecureString "Batoi@1234"  -AsPlainText -Force) -Description "$descrip" -enabled $true
+        # Remove-ADUser -Identity "$login"
+        # Agregar el usuario al grupo del departamento
+        # Add-ADGroupMember -Identity $usuari.dept -Members $login
+    }
+    # Comprovar si es jefe de departamento y agregarlo al grupo de jefes de departamento
+    if ($usuari.descrip -eq "Jefe" -AND $usuari.sede -eq "Alcoi") {
+        Add-ADGroupMember -Identity "ggJefesDepartamento" -Members $login
+    }
+
+    if ($usuari.dept -eq "Administración" -AND $usuari.sede -eq "Alcoi"){
+        Add-ADGroupMember -Identity "ggAdministrativo" -Members $login
+    }
+
+    if ($usuari.dept -eq "Gerencia" -AND $usuari.sede -eq "Alcoi"){
+        Add-ADGroupMember -Identity "ggGerencia" -Members $login
+    }
+
+    if ($usuari.dept -eq "Comercial" -AND $usuari.sede -eq "Alcoi"){
+        Add-ADGroupMember -Identity "ggComercial" -Members $login
+    }
+
+    if ($usuari.dept -eq "Técnico" -AND $usuari.sede -eq "Alcoi"){
+        Add-ADGroupMember -Identity "ggTecnico" -Members $login
+    }
+
+    if ($usuari.dept -eq "Laboratorio" -AND $usuari.sede -eq "Alcoi"){
+        Add-ADGroupMember -Identity "ggLaboratorio" -Members $login
+    }
+
+    if ($usuari.dept -eq "Almacén" -AND $usuari.sede -eq "Alcoi"){
+        Add-ADGroupMember -Identity "ggAlmacen" -Members $login
+    }
+
+    if ($usuari.dept -eq "Producción" -AND $usuari.sede -eq "Alcoi"){
+        Add-ADGroupMember -Identity "ggProduccion" -Members $login
+    }
+}
