@@ -27,7 +27,7 @@ Se ha crimpado un cable de red que se habia roto.
 Hemos seguido configurando WSUS.
 En el servidor empresarial se empieza a configurar el sistema de instalación por red de sistemas operativos para cliente Windows via iSCSI en una carpeta desde la cabina de discos.
 ## *MIÉRCOLES, 7 DE JUNIO*
-
+El día de hoy, parte del grupo conectaba un nuevo disco por iSCSI al Truenas, al mismo tiempo otro miembro del equipo empezaba a configurar WDS, mientras terminaba de revisar los cables como viene indicado en el esquema de red y modificaba la docupemtación para adaptarla a los cambios de los últimos días. Mientras que otros compañeros se dedicaban a realizar la práctica 2.4 y añadían los servidores al rsat y wac.
 ## *JUEVES, 8 DE JUNIO*
 
 ## *VIERNES, 9 DE JUNIO*
