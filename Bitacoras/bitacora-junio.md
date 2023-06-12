@@ -31,3 +31,4 @@ El día de hoy, parte del grupo conectaba un nuevo disco por iSCSI al Truenas, a
 ## *JUEVES, 8 DE JUNIO*
 Hemos intentado configurar WDS, pero no conseguimos encontrar los archivos install.wim y boot.wim. Además, hemos continuado las diferentes páginas de la intranet (html y css).
 ## *VIERNES, 9 DE JUNIO*
+En este día se intentó arreglar algunos de los problemas que teníamos como son las copias de seguridad de la carpeta datos.
