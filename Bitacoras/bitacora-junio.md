@@ -29,5 +29,5 @@ En el servidor empresarial se empieza a configurar el sistema de instalación po
 ## *MIÉRCOLES, 7 DE JUNIO*
 El día de hoy, parte del grupo conectaba un nuevo disco por iSCSI al Truenas, al mismo tiempo otro miembro del equipo empezaba a configurar WDS, mientras terminaba de revisar los cables como viene indicado en el esquema de red y modificaba la docupemtación para adaptarla a los cambios de los últimos días. Mientras que otros compañeros se dedicaban a realizar la práctica 2.4 y añadían los servidores al rsat y wac.
 ## *JUEVES, 8 DE JUNIO*
-
+Hemos intentado configurar WDS, pero no conseguimos encontrar los archivos install.wim y boot.wim. Además, hemos continuado las diferentes páginas de la intranet (html y css).
 ## *VIERNES, 9 DE JUNIO*
