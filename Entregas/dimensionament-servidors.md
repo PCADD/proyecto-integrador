@@ -90,8 +90,7 @@ Contraseña:1234
 - Usuario:dmz  
 - Contraseña:1234
 - Patch panel: Puerto 1
-- Dispositivo: 15 tp link
-
+- Microtik: Puerto 4
 # Clientes 
 
 ## Cliente 1: gerencia
