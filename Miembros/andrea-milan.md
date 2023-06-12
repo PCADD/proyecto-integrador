@@ -139,5 +139,12 @@ Junto a César, he realizado las siguientes tareas:
 - He modificado el documento dimensionament_servidors.md y modificado algunos nombres de equipos que faltaban por cambiar
 
 ## *JUEVES, 8 DE JUNIO*
+He intentado configurar WDS (no hemos podido porque no sabíamos de donde obtener los archivos boot.wim e install.wim) y he continuado con la intranet: he ayudado a Paloma y a César con el html de sus páginas y he empezado el javascript de las páginas createUser y alterUser
 
 ## *VIERNES, 9 DE JUNIO*
+He intentado arreglar errores:
+- El servidor de aplicaciones no inicia, pero no hemos sabido arreglarlo
+- No se puede crear la copia de seguridad en el recurso compartido NFS, pero no hemos conseguido arreglarlo
+- He arreglado las directivas (estaba mal el ámbito)
+- He encontrado el archivo necesario para configurar WDS, pero no he conseguido configurarlo porque Diego estaba usando ese servidor para el NFS
+- He investigado como desplegar la intranet
