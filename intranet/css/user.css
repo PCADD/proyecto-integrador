@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+
+.fondoicono{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+#iconousuario {
+    width: 125px;
+    height: 125px;
+    display: block;
+    margin: 0 auto;
+}
+
+h5{
+    border-bottom: 1px solid lightgrey;
+}
+
+.btn{
+    width: 100%;
+}
+
+.btn-outline-warning{
+    color: #212529;
+    background-color: white;
+    border-color: #212529;
+}
+
+.btn-outline-warning:hover{
+    color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
