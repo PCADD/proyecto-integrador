@@ -148,3 +148,11 @@ He intentado arreglar errores:
 - He arreglado las directivas (estaba mal el ámbito)
 - He encontrado el archivo necesario para configurar WDS, pero no he conseguido configurarlo porque Diego estaba usando ese servidor para el NFS
 - He investigado como desplegar la intranet
+
+## *lUNES, 12 DE JUNIO*
+He desplegado la página (no terminada) web de la intranet en el servidor Intranet, y he seguido intentando configurar el WDS, pero nos da varios fallos al intentar añadir las imágenes de instalación. También he creado las reglas del firewall del DMZ en el microtik
+
+## *MARTES, 13 DE JUNIO*
+He continuado la implementación de la página web (pensaba que tenía que ser dinámica, y obviamente no estaba consiguiendo que me saliera nada) y he hecho el diseño de la página junto a David
+## *MIÉRCOLES, 14 DE JUNIO*
+He hecho la memoria que nos faltaba de Redes junto a César y hemos intentado desplegar la web en el DMZ, pero se ha ido el internet y no hemos podido.
